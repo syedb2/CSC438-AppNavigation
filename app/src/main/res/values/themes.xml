@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.Slideshow" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F7F5EF</item>
+        <item name="android:navigationBarColor">#202A28</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="Theme.Slideshow" parent="Base.Theme.Slideshow" />
+</resources>

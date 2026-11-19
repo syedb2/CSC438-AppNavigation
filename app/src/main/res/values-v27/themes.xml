@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Slideshow" parent="Base.Theme.Slideshow">
+        <item name="android:navigationBarColor">#F7F5EF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

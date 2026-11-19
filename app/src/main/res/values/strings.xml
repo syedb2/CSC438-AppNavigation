@@ -1,0 +1,31 @@
+<resources>
+<string name="app_name">App Navigation</string>
+<string name="name_mercury">Mercury</string>
+<string name="description_mercury">Mercury’s cratered surface.</string>
+<string name="name_venus">Venus</string>
+<string name="description_venus">Clouds cover Venus.</string>
+<string name="name_earth">Earth</string>
+<string name="description_earth">Earth’s oceans and clouds.</string>
+<string name="name_mars">Mars</string>
+<string name="description_mars">Canyons cross the surface of Mars.</string>
+<string name="name_jupiter">Jupiter</string>
+<string name="description_jupiter">Cloud bands surround Jupiter.</string>
+<string name="name_saturn">Saturn</string>
+<string name="description_saturn">Saturn and its rings.</string>
+<string name="name_uranus">Uranus</string>
+<string name="description_uranus">A view of Uranus.</string>
+<string name="name_neptune">Neptune</string>
+<string name="description_neptune">A view of Neptune.</string>
+<string name="name_earth_detail">Earth detail</string>
+<string name="description_earth_detail">A closer view of Earth’s land and clouds.</string>
+<string name="name_jupiter_detail">Jupiter detail</string>
+<string name="description_jupiter_detail">A closer view of Jupiter’s cloud bands.</string>
+    <string name="contact_name">Syed Wajid Bukhari</string>
+    <string name="contact_title">Computer Science Student</string>
+    <string name="contact_school">College of Staten Island</string>
+    <string name="contact_github">github.com/syedb2</string>
+    <string name="home_title">Solar System</string>
+    <string name="contact_title_bar">Contact</string>
+    <string name="back_home">Back to home</string>
+    <string name="contact_picture">Computer science business card logo</string>
+</resources>
